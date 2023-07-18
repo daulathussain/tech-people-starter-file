@@ -10,7 +10,7 @@ Resource
 
 Final-Code: https://www.theblockchaincoders.com/sourceCode/build-a-responsive-website-with-html-and-scss-sass
 
-Starter-file: https://github.com/daulathussain/nfts-api-starter-file
+Starter-file: https://github.com/daulathussain/tech-people-starter-file
 
 Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
 
